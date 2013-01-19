@@ -36,6 +36,4 @@ $formatted_string = format_json( $json_string );
 
 <p>This example shows how a JSON string can be formatted then embedded within an HTML document.</p>
 
-<pre>
-	<?php echo $formatted_string; ?>
-</pre>
+<pre><?php echo $formatted_string; ?></pre>
